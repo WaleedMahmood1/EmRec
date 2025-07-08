@@ -1,0 +1,12 @@
+name: 'EmRec'
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - ipykernel
+    - pandas
+    - numpy 
+    - matplotlib
+    - librosa
+    - scikit-learn
+    - pytorch
